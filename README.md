@@ -210,4 +210,4 @@ DimScreen is available as a full free version with all features and updates incl
 Ready to enhance your screen experience? **Download DimScreen today for free and take control of your monitor's brightness!**
 
 ---
-**Last updated:** 2026-11-09 20:24:12 UTC
+**Last updated:** 2026-11-10 03:09:35 UTC
